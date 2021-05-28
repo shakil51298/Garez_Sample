@@ -1,5 +1,5 @@
 
-# **Gerez**
+# Garez_Sample
 
 
 <a  href="https://my-gerez.web.app/">
@@ -23,8 +23,3 @@
 
 ### `Website Link :` [https://my-gerez.web.app](https://my-gerez.web.app)
 
-<hr/>
-
-**[Back-end Repository](https://github.com/SohelIslamImran/gerez-server)**
-<hr/>
-"# Garez_Sample" 
